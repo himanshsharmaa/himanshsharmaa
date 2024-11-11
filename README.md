@@ -10,16 +10,25 @@
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 </p>
 
 <h2 align="center">💼 Featured Projects</h2>
@@ -27,24 +36,24 @@
   <tr>
     <td>
       <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=radical" alt="Online Examination Portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ihimanshsharma&repo=Billing_Software&theme=dark" alt="Billing Software">
       </a>
     </td>
     <td>
       <a href="https://github.com/ihimanshsharma/Profile-Readme-Builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Profile-Readme-Builder&theme=radical" alt="Profile Readme Builder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Profile-Readme-Builder&theme=dark" alt="Profile Readme Builder">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ihimanshsharma/Examify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Examify&theme=radical" alt="Online Examination System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Examify&theme=dark" alt="Online Examination System">
       </a>
     </td>
     <td>
       <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=radical" alt="AI/ML Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=dark" alt="AI/ML Projects">
       </a>
     </td>
   </tr>
@@ -62,21 +71,21 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
-  <a href="mailto:talk.himanshsharma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ihimanshsharma" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:talk.himanshsharma@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ihimanshsharma" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihimanshsharma&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshsharma&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimanshsharma&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihimanshsharma&show_icons=true&theme=dark" alt="GitHub Stats" width="33%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshsharma&theme=dark" alt="GitHub Streak" width="33%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimanshsharma&layout=compact&theme=dark" alt="Top Languages" width="33%" height="200" />
 </p>
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihimanshsharma&theme=radical&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ihimanshsharma&theme=dark&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 <p align="center">Thank you for stopping by! 🙏 Let's collaborate and build something amazing together! 🚀</p>
