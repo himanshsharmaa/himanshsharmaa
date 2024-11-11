@@ -31,15 +31,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=radical" alt="Feedback Portal">
+      <a href="https://github.com/ihimanshsharma/Profile-Readme-Builder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Profile-Readme-Builder&theme=radical" alt="Profile Readme Builder">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=radical" alt="Supermarket Billing Software">
+      <a href="https://github.com/ihimanshsharma/Examify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Examify&theme=radical" alt="Online Examination System">
       </a>
     </td>
     <td>
