@@ -35,25 +35,25 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ihimanshsharma&repo=Billing_Software&theme=dark" alt="Billing Software">
+      <a href="https://github.com/himanshsharmaa/Billing_Software">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="Billing Software">
       </a>
     </td>
     <td>
-      <a href="https://github.com/ihimanshsharma/Profile-Readme-Builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Profile-Readme-Builder&theme=dark" alt="Profile Readme Builder">
+      <a href="https://github.com/himanshsharmaa/Profile-Readme-Builder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Profile-Readme-Builder&theme=dark" alt="Profile Readme Builder">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ihimanshsharma/Examify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Examify&theme=dark" alt="Online Examination System">
+      <a href="https://github.com/himanshsharmaa/Examify">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Examify&theme=dark" alt="Online Examination System">
       </a>
     </td>
     <td>
-      <a href="https://github.com/ihimanshsharma/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihimanshsharma&repo=Billing_Software&theme=dark" alt="AI/ML Projects">
+      <a href="https://github.com/himanshsharmaa/Billing_Software">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="AI/ML Projects">
       </a>
     </td>
   </tr>
@@ -73,19 +73,19 @@
 <p align="center">
   <a href="mailto:talk.himanshsharma@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ihimanshsharma" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihimanshsharma&show_icons=true&theme=dark" alt="GitHub Stats" width="33%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshsharma&theme=dark" alt="GitHub Streak" width="33%" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimanshsharma&layout=compact&theme=dark" alt="Top Languages" width="33%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshsharmaa&show_icons=true&theme=dark" alt="GitHub Stats" width="33%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshsharmaa&theme=dark" alt="GitHub Streak" width="33%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshsharmaa&layout=compact&theme=dark" alt="Top Languages" width="33%" height="200" />
 </p>
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihimanshsharma&theme=dark&margin-w=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshsharmaa&theme=dark&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 <p align="center">Thank you for stopping by! 🙏 Let's collaborate and build something amazing together! 🚀</p>
