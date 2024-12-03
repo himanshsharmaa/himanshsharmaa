@@ -1,6 +1,6 @@
 <div align="center">
     <!--<h1>-->
-        <img src="https://github.com/keplor-io/.github/blob/main/keplor-Banner.png" alt="Keplor Logo" width="auto" />
+        <img src="https://github.com/himanshsharmaa/himanshsharmaa/blob/main/reallygreatsite.com.png" alt="Header" width="auto" />
         <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Himansh Sharma</span></h1>
         <!--<br>Keplor
     </h1>-->
