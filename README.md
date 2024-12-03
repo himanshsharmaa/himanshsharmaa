@@ -1,8 +1,13 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Himansh Sharma</span></h1>
-
-<p align="center">
+<div align="center">
+    <!--<h1>-->
+        <img src="https://github.com/keplor-io/.github/blob/main/keplor-Banner.png" alt="Keplor Logo" width="auto" />
+        <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Himansh Sharma</span></h1>
+        <!--<br>Keplor
+    </h1>-->
+<p>
   <i>A passionate Computer Science Engineering student specializing in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>. I am driven by the ambition to innovate and build solutions that merge technology and creativity. From AI models to intuitive web applications, I thrive in development and content creation.</i>
 </p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
