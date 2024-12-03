@@ -1,17 +1,12 @@
 <div align="center">
-    <!--<h1>-->
-        <img src="https://github.com/himanshsharmaa/himanshsharmaa/blob/main/reallygreatsite.com.png" alt="Header" width="auto" />
-        <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Himansh Sharma</span></h1>
-        <!--<br>Keplor
-    </h1>-->
-<p>
-  <i>A passionate Computer Science Engineering student specializing in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>. I am driven by the ambition to innovate and build solutions that merge technology and creativity. From AI models to intuitive web applications, I thrive in development and content creation.</i>
-</p>
+    <img src="https://github.com/himanshsharmaa/himanshsharmaa/blob/main/reallygreatsite.com.png" alt="Header" width="auto" />
+    <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50;">Himansh Sharma</span></h1>
+    <p align="center"><em>A passionate <strong>Computer Science Engineering</strong> student with a focus on <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>. I am a problem-solver who loves to build innovative and scalable solutions. From             web development to AI algorithms, I thrive in bringing ideas to life through code!</em></p>
+    <hr />
+    <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
+    </p>
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG">
-</p>
 
 <h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
@@ -36,38 +31,46 @@
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
 </p>
 
-<h2 align="center">💼 Featured Projects</h2>
-<table align="center">
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">💼 Featured Projects</h2>
+<p align="center" style="font-size: 16px; color: #555;">Check out some of my top projects. Click on the images to explore the code and details.</p>
+
+<!-- Featured Projects Table -->
+<table align="center" style="margin-top: 20px; border-spacing: 20px;">
   <tr>
     <td>
-      <a href="https://github.com/himanshsharmaa/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="Billing Software">
+      <a href="https://github.com/himanshsharmaa/Billing_Software" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="Billing Software" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
+      <p align="center" style="margin-top: 10px; font-weight: bold;">Billing Software</p>
     </td>
     <td>
-      <a href="https://github.com/himanshsharmaa/Profile-Readme-Builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Profile-Readme-Builder&theme=dark" alt="Profile Readme Builder">
+      <a href="https://github.com/himanshsharmaa/Examify" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Examify&theme=dark" alt="Online Examination System" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
+      <p align="center" style="margin-top: 10px; font-weight: bold;">Examify - Online Examination System</p>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/himanshsharmaa/Examify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Examify&theme=dark" alt="Online Examination System">
+      <a href="https://github.com/himanshsharmaa/Examify" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Examify&theme=dark" alt="Online Examination System" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
+      <p align="center" style="margin-top: 10px; font-weight: bold;">Examify - Online Examination System</p>
     </td>
     <td>
-      <a href="https://github.com/himanshsharmaa/Billing_Software">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="AI/ML Projects">
+      <a href="https://github.com/himanshsharmaa/Billing_Software" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="AI/ML Projects" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
+      <p align="center" style="margin-top: 10px; font-weight: bold;">AI/ML Projects</p>
     </td>
   </tr>
 </table>
 
 <h2 align="center">📚 Currently Learning</h2>
-<p align="center">
+<p align="left">
   <ul>
     <li>MERN Stack Development</li>
+    <li>Machine Learning in Python</li>
     <li>Advanced AI and ML Algorithms</li>
     <li>Software Development in Java</li>
     <li>Cloud Based Solutions</li>
@@ -75,10 +78,10 @@
 </p>
 
 <h2 align="center">📫 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:talk.himanshsharma@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="left">
+    <a href="mailto:talk.himanshsharma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+    <a href="https://www.linkedin.com/in/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+    <a href="https://github.com/himanshsharmaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
