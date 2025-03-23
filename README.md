@@ -38,10 +38,10 @@
 <table align="center" style="margin-top: 20px; border-spacing: 20px;">
   <tr>
     <td>
-      <a href="https://github.com/himanshsharmaa/Billing_Software" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Billing_Software&theme=dark" alt="Billing Software" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+      <a href="https://github.com/himanshsharmaa/Aura" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Aura&theme=dark" alt="Aura" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
-      <p align="center" style="margin-top: 10px; font-weight: bold;">Billing Software</p>
+      <p align="center" style="margin-top: 10px; font-weight: bold;">Aura</p>
     </td>
     <td>
       <a href="https://github.com/himanshsharmaa/Examify" target="_blank">
