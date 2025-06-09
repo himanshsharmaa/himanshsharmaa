@@ -39,7 +39,7 @@
   <tr>
     <td>
       <a href="https://github.com/himanshsharmaa/Aura" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=himanshsharmaa&repo=Aura&theme=dark" alt="Aura" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshsharmaa&repo=Aura&theme=dark" alt="aura" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
       </a>
       <p align="center" style="margin-top: 10px; font-weight: bold;">Aura</p>
     </td>
